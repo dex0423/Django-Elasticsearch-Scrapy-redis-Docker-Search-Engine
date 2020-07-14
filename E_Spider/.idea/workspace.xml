@@ -140,6 +140,9 @@
       <replace>xianshou_presale_item</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -166,6 +169,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -269,12 +273,12 @@
       <workItem from="1594628039724" duration="8420000" />
       <workItem from="1594649292292" duration="2633000" />
       <workItem from="1594709440421" duration="8763000" />
-      <workItem from="1594725147334" duration="3730000" />
+      <workItem from="1594725147334" duration="4328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83997000" />
+    <option name="totallyTimeSpent" value="84595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -294,7 +298,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" x="909" y="-900" width="1600" height="860" id="Terminal" order="11" visible="true" weight="0.43445286" />
+      <window_info active="true" anchor="bottom" x="909" y="-900" width="1600" height="860" id="Terminal" order="11" visible="true" weight="0.43492407" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
       <window_info anchor="bottom" id="File Transfer" order="13" visible="true" weight="0.33060557" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
