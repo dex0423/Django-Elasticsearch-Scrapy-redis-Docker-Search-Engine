@@ -8,7 +8,7 @@
 
 	- 利用 scrapy-redis 抓取网页，此处的抓取对象为六安市房产数据 http://fcj.luan.gov.cn/laweb/Web/PreSellInfo/ShowPreSellCertList.aspx；
 
-	- 利用 elasticsearch 存储抓取的数据，同事存储于 MySQL 实现持久化；
+	- 利用 elasticsearch 存储抓取的数据，同时存储于 MySQL 实现持久化；
 
 	- 利用 django 搭建数据搜索界面；
 
